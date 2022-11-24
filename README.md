@@ -1,5 +1,5 @@
 # Fibonacci
- Short programs tha computes the Fibonacci sequen up to a given number.
+ Short program that computes the Fibonacci sequence up to a given number.
  
  ## How to use
 - Make sure you have Python installed on your machine (Python 3.x).
